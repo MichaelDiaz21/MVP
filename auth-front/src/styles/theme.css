@@ -1,0 +1,54 @@
+:root {
+  --font-size: 16px;
+  --background: #ffffff;
+  --foreground: #111827;
+  --border: rgba(0, 0, 0, 0.1);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  font-size: var(--font-size);
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+h4,
+label,
+button,
+input {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+label,
+button {
+  font-weight: 500;
+}
+
+input {
+  font-weight: 400;
+}
