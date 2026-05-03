@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "69f585f79a3455a36d30120b"
+  },
+  "username": "admin",
+  "password": "$2b$10$8RpoMvJXeK0qwsZLaLxTsenB/EI22LLPZL/vD35okfYYbanRsaBjm",
+  "name": "Administrador",
+  "role": "Administrador",
+  "city": "bog",
+  "cityName": "Bogotá"
+},
+{
+  "_id": {
+    "$oid": "69f67aa020bf682aa7b86335"
+  },
+  "username": "michael@mail.com",
+  "password": "$2b$10$8EJfgMBE9qyJGOKdAiX6IuL8eVFSIuC5RMBMH9bXS0VpiSEWXLWj.",
+  "name": "michael",
+  "role": "Supervisor",
+  "city": "bog",
+  "cityName": "Bogotá",
+  "status": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f67afc20bf682aa7b8633a"
+  },
+  "username": "medellin@mail.com",
+  "password": "$2b$10$vEoGqHpDFfIIUhCBrFSkzuylSfgMOg.5gW3YuUlGPQKeVwQFbYP3.",
+  "name": "medellin",
+  "role": "Operador",
+  "city": "med",
+  "cityName": "Medellín",
+  "status": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f697ae805469904038589d"
+  },
+  "username": "bogota@mail.com",
+  "password": "$2b$10$fmPIg95irZ9vxhapul3r6OFWtVqvFrbaD4fnGi3LnnrZy90MgLSt6",
+  "name": "BOGOTA",
+  "role": "Operador",
+  "city": "bog",
+  "cityName": "Bogotá",
+  "status": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6da25992de700b87e82c7"
+  },
+  "username": "cali@mail.com",
+  "password": "$2b$10$atN3bYZVqGOWRe6AdR/9gejFzZ5w6rmYK7gDiyu3jUOUbn2xzgKKu",
+  "name": "CALI",
+  "role": "Operador",
+  "city": "cal",
+  "cityName": "Cali",
+  "status": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6da46992de700b87e82c8"
+  },
+  "username": "tunja@mail.com",
+  "password": "$2b$10$aj1gs.KKJXuf2PdexiGK4Ocz285rbIWRCZkvHrAqC4wsaCh67oYFq",
+  "name": "TUNJA",
+  "role": "Operador",
+  "city": "tun",
+  "cityName": "Tunja",
+  "status": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6da63992de700b87e82c9"
+  },
+  "username": "pereira@mail.com",
+  "password": "$2b$10$FHmWkJi6Xle94mazp8A3lOfX4iyPgjbhTj6Qnuf4pd4xQqGCHs/o2",
+  "name": "PEREIRA",
+  "role": "Operador",
+  "city": "per",
+  "cityName": "Pereira",
+  "status": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6da8c992de700b87e82ca"
+  },
+  "username": "bucaramanga@mail.com",
+  "password": "$2b$10$qvDWBo2IJtcEe/Hi7Uls3eZHEiH7E574VQIXcsaNOZWK8GR2.L37S",
+  "name": "BUCARAMANGA",
+  "role": "Operador",
+  "city": "buc",
+  "cityName": "Bucaramanga",
+  "status": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6dab9992de700b87e82cb"
+  },
+  "username": "barranquilla@mail.com",
+  "password": "$2b$10$rWWW4GRikeirZaj48ef9U.zWFBWFWyzAI4DQ7iUoWHPmId4lT6UaK",
+  "name": "BARRANQUILLA",
+  "role": "Operador",
+  "city": "bar",
+  "cityName": "Barranquilla",
+  "status": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6dae0992de700b87e82cc"
+  },
+  "username": "cartagena@mail.com",
+  "password": "$2b$10$y9Y6da6v3w30t3XNnEtlM.LOUBZ8MUH3KOsWyHecFtmkr9oPrp8m2",
+  "name": "CARTAGENA",
+  "role": "Operador",
+  "city": "car",
+  "cityName": "Cartagena",
+  "status": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6db89992de700b87e82d6"
+  },
+  "username": "ibague@mail.com",
+  "password": "$2b$10$bsVAc06ThN3zJMHEKGhre.bcdfxD.xScuPYQowQRdaQoiumFIOime",
+  "name": "IBAGUE",
+  "role": "Operador",
+  "city": "iba",
+  "cityName": "Ibagué",
+  "status": "Activo",
+  "__v": 0
+}]
